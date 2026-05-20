@@ -1,8 +1,10 @@
 # A Unified Pore-Scale Multiphysics Model for the Integrated Soot Transport-Deposition-Oxidation in Catalytic Diesel Particulate Filters
 
 [![arXiv](https://img.shields.io/badge/arXiv-2512.22230-b31b1b.svg)](https://arxiv.org/abs/2512.22230)
+[![DOI](https://img.shields.io/badge/DOI-10.1063%2F5.0321009-red)](https://doi.org/10.1063/5.0321009)
 
-This user-defined function (UDF) code implements a unified pore-scale multiphysics model based on the Eulerian-Lagrangian framework to comprehensively resolve the transport, deposition, and oxidation of soot within a catalytic diesel particulate filter (CDPF).  The soot oxidation model is derived based on the fundamental chemical kinetics and thermochemistry, enabling comprehensive coverage of all CDPF operating conditions. The particle-wall interaction is modeled based on the elastic deformation and surface adhesion theories. More details on our model and implementation can be found in [arxiv:2512.22230](https://arxiv.org/abs/2512.22230).
+
+This user-defined function (UDF) code implements a unified pore-scale multiphysics model based on the Eulerian-Lagrangian framework to comprehensively resolve the transport, deposition, and oxidation of soot within a catalytic diesel particulate filter (CDPF).  The soot oxidation model is derived based on the fundamental chemical kinetics and thermochemistry, enabling comprehensive coverage of all CDPF operating conditions. The particle-wall interaction is modeled based on the elastic deformation and surface adhesion theories. More details on our model and implementation can be found in [doi:10.1063/5.0321009](https://doi.org/10.1063/5.0321009).
 
 - Authors: Yujing Zhang, Yunhua Zhang, Liang Fang, Diming Lou, Piqiang Tan, and Zhiyuan Hu
 
@@ -34,7 +36,7 @@ This code is developed based on the `ANSYS Fluent 2024R2` (OS: Windows). It also
 
 ## References
 
-[1] Zhang, Y., Zhang, Y., Fang, L., Lou, D., Tan, P., & Hu, Z. (2025). A Unified Pore-Scale Multiphysics Model for the Integrated Soot Transport-Deposition-Oxidation in Catalytic Diesel Particulate Filters, [arxiv:2512.22230](https://arxiv.org/abs/2512.22230).
+[1] Zhang, Y., Zhang, Y., Fang, L., Lou, D., Tan, P., & Hu, Z. (2026). A unified pore-scale multiphysics model for the integrated soot transport-deposition-oxidation in catalytic diesel particulate filters. Physics of Fluids, 38(3).
 
 Feel free to copy and modify our code (`PR` is needed). If you find this useful, please cite our paper and consider give a little star :star: to this project. For any questions or comments, please contact [zhangyujing@tongji.edu.cn] or [zhangyunhua@tongji.edu.cn]. 
 
